@@ -5,5 +5,5 @@ a nastepnie wpisujesz w cmd</br>
 node index.js</br>
 i ciesz sie działającym botem!</br>
 </br>
-w razie problemów pisz do mnie </br>
-<a href="mailto:kontakt@72dev.cf">Mail</a>
+</br>
+NIE POMAGAM W BOTACH Z TEGO KODU!!!! 
