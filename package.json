@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo"
   },
-  "author": "72",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
