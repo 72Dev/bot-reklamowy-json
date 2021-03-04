@@ -1,7 +1,7 @@
 {
     "token": "token",
-    "weryfikacja_kanal": "",
-    "developerzy": [""],
-    "weryfikatorzy": ["", ""],
+    "weryfikacja_kanal": "id",
+    "developerzy": ["id"],
+    "weryfikatorzy": ["id", "id"],
     "zaproszenie": "https://discord.com/api/oauth2/authorize?client_id=id bota&permissions=330769&scope=bot"
 }
